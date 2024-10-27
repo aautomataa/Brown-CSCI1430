@@ -1,2 +1,2 @@
 # Brown-CSCI1430
-self-learning program
+https://browncsci1430.github.io/index.html#home-content
